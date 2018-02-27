@@ -1,0 +1,24 @@
+{
+  "name": "react-native-demo-custom",
+  "version": "1.0.4",
+  "author": "anhtuank7c (Anh Tuan Nguyen)",
+  "description":
+    "How to write your own custom native module for React Native. Publish to npm market.",
+  "homepage": "https://github.com/anhtuank7c/react-native-demo-custom/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "anhtuank7c",
+    "facebook",
+    "dev circle",
+    "hanoi",
+    "agiletech"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
