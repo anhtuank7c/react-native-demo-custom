@@ -1,6 +1,6 @@
 {
   "name": "react-native-demo-custom",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "anhtuank7c (Anh Tuan Nguyen)",
   "description":
     "How to write your own custom native module for React Native. Publish to npm market.",
@@ -19,6 +19,6 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.47.0"
   }
 }
