@@ -6,7 +6,7 @@ This is a demo in Facebook Develop Circle Hanoi event.
 Speaker: Anh Tuan Nguyen (anhtuank7c)
 Date: March 03, 2018
 Content: How to write your own custom native module for React Native
-Example and presentation: [https://github.com/anhtuank7c/fbdevcirclehanoi2](fbdevcirclehanoi2)
+Example and presentation: [https://github.com/anhtuank7c/fbdevcirclehanoi2/blob/master/Custom%20Module%20React%20Native.pptx](fbdevcirclehanoi2)
 
 ### Mostly automatic installation
 
